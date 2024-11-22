@@ -64,7 +64,7 @@ logo = """\033[33m
       ▐▀▐ ▌▀█▀ ▐ █
             ▐    ▌
 
-     By:C0d1ngj4ndr3s     
+     By:CodingJAndres     
 """
 
 def check():
