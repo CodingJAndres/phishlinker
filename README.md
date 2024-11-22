@@ -63,4 +63,4 @@ Este script debe ser utilizado únicamente en entornos controlados y con fines e
 
 ## Autor
 
-Creado por **C0d1ngj4ndr3s**
+Creado por **CodingJAndres**
